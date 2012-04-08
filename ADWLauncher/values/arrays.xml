@@ -21,7 +21,7 @@
                 <item>Normalno</item>
                 <item>Rotiraj</item>
                 <item>Stranica</item>
-                <item>Kocka/item>
+                <item>Kocka</item>
                 <item>Raspršiti</item>
        </string-array>
        <string-array name="home_orientation_entries">
@@ -43,7 +43,7 @@
                 <item>1 Ikona</item>
        </string-array>
        <string-array name="deletezone_entries">
-                <item>None</item>
+                <item>Nijedno</item>
                 <item>Vrh</item>
                 <item>Dno</item>
                 <item>Vrh (Suzi radnu površinu)</item>
