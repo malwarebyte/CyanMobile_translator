@@ -2,15 +2,15 @@
 <resources>
        <string-array name="menu_binding_entries">
                 <item>NONE</item>
-                <item>Move to default desktop</item>
-                <item>Move to default desktop/show previews</item>
-                <item>Show previews</item>
-                <item>Open/close App Drawer</item>
-                <item>Show/hide statusbar</item>
-                <item>Open/close notifications</item>
-                <item>Move to default desktop/Open notifications</item>
-                <item>Open/close DockBar</item>
-                <item>Open App...</item>
+                <item>Pomicanje na zadanu radnu površinu</item>
+                <item>Pomicanje na zadanu radnu površinu/Prikaži pregled</item>
+                <item>Prikaži pregled</item>
+                <item>Otvori/zatvori App Drawer</item>
+                <item>Prikaži/sakrij statusbar</item>
+                <item>Otvori/zatvori Obavjesti</item>
+                <item>Pomicanje na zadanu radnu površinu/Otvori obavjesti</item>
+                <item>Otvori/zatvori DockBar</item>
+                <item>Otvori Aplikaciju...</item>
        </string-array>
        <string-array name="desktop_indicator_entries">
                 <item>Dot paginator top</item>
@@ -19,9 +19,9 @@
        </string-array>
        <string-array name="desktop_transition_entries">
                 <item>Normal</item>
-                <item>Rotate</item>
-                <item>Page</item>
-                <item>Cube</item>
+                <item>Rotiraj</item>
+                <item>Stranica</item>
+                <item>Kocka/item>
                 <item>Scatter</item>
        </string-array>
        <string-array name="home_orientation_entries">
