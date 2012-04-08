@@ -13,49 +13,49 @@
                 <item>Otvori Aplikaciju...</item>
        </string-array>
        <string-array name="desktop_indicator_entries">
-                <item>Dot paginator top</item>
-                <item>Sliding paginator top</item>
-                <item>Sliding paginator bottom</item>
+                <item>Tačkasti pokazatelj vrh</item>
+                <item>Klizni pokazatelj vrh</item>
+                <item>Klizni pokazatelj dno</item>
        </string-array>
        <string-array name="desktop_transition_entries">
-                <item>Normal</item>
+                <item>Normalno</item>
                 <item>Rotiraj</item>
                 <item>Stranica</item>
                 <item>Kocka/item>
-                <item>Scatter</item>
+                <item>Raspršiti</item>
        </string-array>
        <string-array name="home_orientation_entries">
-                <item>Auto/sensor</item>
-                <item>Portrait</item>
-                <item>Landscape</item>
+                <item>Auto/senzor</item>
+                <item>Portretno</item>
+                <item>Pejzažno</item>
        </string-array>
        <string-array name="screen_cache_entries">
-                <item>Low quality</item>
+                <item>Niska Kvaliteta</item>
                 <item>Auto</item>
-                <item>Disabled</item>
+                <item>Onemogući</item>
        </string-array>
        <string-array name="main_dock_entries">
                 <item>None (expand desktop)</item>
-                <item>5 Icons</item>
-                <item>4 Icons</item>
-                <item>3 Icons</item>
-                <item>2 Icons</item>
-                <item>1 Icon</item>
+                <item>5 Ikona</item>
+                <item>4 Ikone</item>
+                <item>3 Ikone</item>
+                <item>2 Ikone</item>
+                <item>1 Ikona</item>
        </string-array>
        <string-array name="deletezone_entries">
                 <item>None</item>
-                <item>Top</item>
-                <item>Bottom</item>
-                <item>Top (Shrink desktop)</item>
-                <item>Bottom (Shrink desktop)</item>
+                <item>Vrh</item>
+                <item>Dno</item>
+                <item>Vrh (Suži radnu površinu)</item>
+                <item>Dno (Suži radnu površinu)</item>
        </string-array>
        <string-array name="app_drawer_style_entries">
-                <item>Vertical plain</item>
-                <item>Horizontal paginated</item>
+                <item>Vertikalni Obični</item>
+                <item>Horizontalni sa stranicama</item>
        </string-array>
        <string-array name="catalog_sorttype_entries">
-                <item>Name</item>
-                <item>Age</item>
+                <item>Ime</item>
+                <item>Godine</item>
        </string-array>
        <!-- Do not translate. -->
        <string-array translatable="false" name="menu_binding_values">
