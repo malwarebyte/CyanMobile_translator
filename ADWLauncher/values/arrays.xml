@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
        <string-array name="menu_binding_entries">
-                <item>NONE</item>
+                <item>Nijedno</item>
                 <item>Pomicanje na zadanu radnu površinu</item>
                 <item>Pomicanje na zadanu radnu površinu/Prikaži pregled</item>
                 <item>Prikaži pregled</item>
@@ -35,7 +35,7 @@
                 <item>Onemogući</item>
        </string-array>
        <string-array name="main_dock_entries">
-                <item>None (expand desktop)</item>
+                <item>Nijedno (Proširi radnu površinu)</item>
                 <item>5 Ikona</item>
                 <item>4 Ikone</item>
                 <item>3 Ikone</item>
@@ -46,8 +46,8 @@
                 <item>None</item>
                 <item>Vrh</item>
                 <item>Dno</item>
-                <item>Vrh (Suži radnu površinu)</item>
-                <item>Dno (Suži radnu površinu)</item>
+                <item>Vrh (Suzi radnu površinu)</item>
+                <item>Dno (Suzi radnu površinu)</item>
        </string-array>
        <string-array name="app_drawer_style_entries">
                 <item>Vertikalni Obični</item>
